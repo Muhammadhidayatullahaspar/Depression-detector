@@ -1,0 +1,2 @@
+# Depression-detector
+Depresi adalah keadaan dimana seseorang mengalami kesedihan yang mengakibatkan menurunnya keinginan akan sesuatu. Depresi tidak boleh diremehkan karena akan menggangu kehidupan sehari hari bahkan ada yang sampai memutuskan bunuh diri. Biasanya seseorang tidak sadar kalau teman atau keluargannya mengalami depresi. karena hal tersebut saya membuat projek ini untuk menetahui jika seseorang mengalami depresi memlalui tulisan orang tersebut di media sosial.Kelas 1 adalah depresi dan kelas 0 adalah tidak depresi
